@@ -24,7 +24,6 @@
     "jquery": "^3.2.1",
     "mongoose": "^4.4.10",
     "morgan": "^1.8.2",
-    "mysql": "^2.4.2",
     "node-babel": "^0.1.2",
     "nodemon": "^1.11.0",
     "react": "^15.5.4",
