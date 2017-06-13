@@ -73,7 +73,7 @@ class App extends Component {
         type="text"
         placeholder="Search by City"
         value={this.state.searchValue}
-        onChange={this.handleSearchChange}
+        onChange={this.handleSearchChange.bind(this)}
         />
         </div>
         <h3 className="aqi-result">{this.state.aqi}</h3>
