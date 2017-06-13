@@ -18,3 +18,8 @@
 //
 //       map.overlayMapTypes.insertAt(0,waqiMapOverlay);
 // </script>
+
+
+  <img src=`https://tiles.waqi.info/tiles/usepa-aqi/{z}/{x}/{y}.png?token=f0be4f42542748763ca5795f6e5768ba0303a091` />
+
+<img src=`https://tiles.waqi.info/tiles/usepa-aqi/{z}/{this.state.latitude}/{this.state.longitude}.png?token=f0be4f42542748763ca5795f6e5768ba0303a091` />
