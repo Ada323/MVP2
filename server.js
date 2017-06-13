@@ -5,7 +5,7 @@ var morgan = require('morgan');
 var path = require('path');
 var mongoose = require('mongoose');
 var config = require('./config');
-var db = require('./db')
+// var db = require('./db')
 
 
 var app = express();
