@@ -56,7 +56,7 @@ class App extends Component {
         </div>
         <h3 className="aqi-result">{this.state.aqi}</h3>
       </div>
-    )
+    );
   }
 }
 
