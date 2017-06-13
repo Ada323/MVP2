@@ -1,5 +1,4 @@
 import React from 'react';
-import '../style.css';
 // import Search from './search'
 
 class App extends Component {
@@ -57,7 +56,7 @@ class App extends Component {
         </div>
         <h3 className="aqi-result">{this.state.aqi}</h3>
       </div>
-    );
+    )
   }
 }
 
