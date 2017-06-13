@@ -44,20 +44,20 @@ class App extends Component {
         <div className="App-header">
           <h2>SMOG REPORT</h2>
         </div>
-        <p className="App-intro">
-        Find out if your air is safe in realtime
-        </p>
+          <p className="App-intro">
+          Find out if your air is safe in realtime
+          </p>
         <div className="search-bar form-inline">
-        <input
-        className="form-control"
-        type="text"
-        placeholder="Search by City"
-        />
+          <input
+          className="form-control"
+          type="text"
+          placeholder="Search by City"
+          />
         </div>
         <h3 className="aqi-result">{this.state.aqi}</h3>
       </div>
     );
   }
-}
+
 
 export default App;
