@@ -40,35 +40,7 @@ body {
 
 .message {
   font-size: 30px;
-  color: #000000;
+  color: #ffffff;
   padding-left: 20px;
   padding-right: 20px;
-}
-
-.default {
-  color: #000000
-}
-
-.good {
-  color: #3981b5;
-}
-
-.moderate {
-  color: #176313;
-}
-
-.sensitive {
-  color: #ba6e0b;
-}
-
-.unhealthy {
-  color: #800000;
-}
-
-.veryUnhealthy {
-  color: #ba0973;
-}
-
-.hazardous {
-  color: #480770;
 }
