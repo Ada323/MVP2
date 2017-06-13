@@ -1,5 +1,5 @@
 body {
-  background-image: url("./sky1.jpg");
+  background-image: url("./smog1.jpg");
   background-size: cover;
   margin: 0;
   padding: 0;
@@ -24,7 +24,7 @@ body {
 
 .search-bar input {
   font-family: Trebuchet MS;
-  color: #800000;
+  color: #757a74;
   width: 700px;
   height: 30px;
   font-size: 30px;
@@ -41,5 +41,7 @@ body {
 .message {
   font-size: 30px;
   color: #800000;
+  padding-left: 20px;
+  padding-right: 20px;
 
 }
