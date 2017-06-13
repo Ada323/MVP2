@@ -18,15 +18,8 @@ body {
   font-family: Trebuchet MS;
 }
 
-.App-intro {
-  font-size: 30px;
-  font-family: Trebuchet MS;
-  color: #800000;
-  margin-top: 60px;
-}
-
 .search-bar {
-  margin-top: 100px;
+  margin-top: 120px;
 }
 
 .search-bar input {
@@ -41,5 +34,12 @@ body {
   font-size: 60px;
   font-family: Trebuchet MS;
   color: #800000;
-  margin-top: 60px;
+  margin-top: 40px;
+  margin-bottom: 0
+}
+
+.message {
+  font-size: 30px;
+  color: #800000;
+
 }
